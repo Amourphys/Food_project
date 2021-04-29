@@ -1,0 +1,25 @@
+{
+  "name": "foodproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "stubapi": "json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amourphys/Food_project.git"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amourphys/Food_project/issues"
+  },
+  "homepage": "https://github.com/Amourphys/Food_project#readme",
+  "devDependencies": {
+    "json-server": "^0.16.3"
+  }
+}
